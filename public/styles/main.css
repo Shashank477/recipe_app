@@ -1,0 +1,73 @@
+body{
+    text-align: center;
+    background-image: url("jonathan-kemper-BHVShq4_gvA-unsplash.jpg");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-size: cover;
+    background-attachment: fixed;
+}
+#rec{
+    background-image: url("joe-woods-4Zaq5xY5M_c-unsplash.jpg");
+    background-color: #cccccc; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fo{
+    background-color: antiquewhite;
+    background-image: url("Korean-traditional-dishes.jpg");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat;
+    background-size: 1500px 430px;
+}
+h1{
+    font-size: 35px;
+    margin-top: 35px;
+}
+select{
+    height: 40px;
+    width: 150px;
+    border-radius: 30px;
+    text-align: center;
+}
+#sub{
+    height: 30px;
+    width: 100px;
+    border-radius: 25px;
+}
+
+#mealpic{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    margin-bottom: 1px;
+    margin-top: 40px;
+}
+#instructions{
+    background-color: bisque;
+    border-radius: 20px;
+}
+p{
+    font-size: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: left;
+    padding-bottom: 30px;
+}
+.ingre{
+    height: 100px;
+    width: 100px;
+}
+ h2{
+    font-weight: bolder;
+    color:white;
+}
+h3{
+    color:bisque;
+}
+.ingdes{
+    margin-top: -22px;
+}
+.h{
+    color: black;
+}
